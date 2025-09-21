@@ -206,11 +206,11 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/38/index.m
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/48/index.m3u8
 #EXTINF:-1 tvg-id="cantho1" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/Ca%CC%82%CC%80nTho%CC%9B1.png", Cần Thơ 1 | Báo và PT-TH Cần Thơ
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/36/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/47/index.m3u8
 #EXTINF:-1 tvg-id="cantho2" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/Ca%CC%82%CC%80nTho%CC%9B2_logo-removebg-preview.png", Cần Thơ 2 | Báo và PT-TH Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/38/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/61/index.m3u8
 #EXTINF:-1 tvg-id="cantho3" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/Ca%CC%82%CC%80nTho%CC%9B3_logo-removebg-preview.png", Cần Thơ 3 | Báo và PT-TH Cần Thơ
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/48/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/84/index.m3u8
