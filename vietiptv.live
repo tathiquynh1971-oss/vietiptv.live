@@ -187,6 +187,21 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/QPVN_2019.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" group-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/THVL_logo.png" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/THVL1_logo_2025-removebg-preview.png", THVL1 | Báo và PT-TH Vĩnh Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" group-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/THVL_logo.png" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/THVL2_logo_2025-removebg-preview.png", THVL2 | Báo và PT-TH Vĩnh Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" group-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/THVL_logo.png" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/THVL3_logo_2025-removebg-preview.png", THVL3 | Báo và PT-TH Vĩnh Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" group-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/THVL_logo.png" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/THVL4_logo_2025-removebg-preview.png", THVL4 | Báo và PT-TH Vĩnh Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="THVL" group-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/THVL_logo.png" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/THVL5_logo_09-09-2025-removebg-preview.png", THVL5 | Báo và PT-TH Vĩnh Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/91/index.m3u8
 #EXTINF:-1 tvg-id="angiang1" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/ATV1_22.08.2025-removebg-preview.png", ATV1 | Báo và PT-TH An Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
@@ -196,7 +211,7 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/35/index.m
 #EXTINF:-1 tvg-id="place-holder" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/ATV3_12.07-21.08.2025-removebg-preview.png", ATV3 | Báo và PT-TH An Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 tvg-id="bacgiang" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/BTV_Bac_Ninh_04-07-2025-removebg-preview.png", BTV | Báo và PT-TH Bắc Ninh
+#EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/BTV_Bac_Ninh_04-07-2025-removebg-preview.png", BTV | Báo và PT-TH Bắc Ninh
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/36/index.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/CTV_HD_C%253F_Mau_2024.png", CTV | Báo và PT-TH Cà Mau
