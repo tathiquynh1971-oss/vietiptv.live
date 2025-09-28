@@ -199,15 +199,6 @@ https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="THVL" group-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/THVL_logo.png" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/THVL5_logo_09-09-2025-removebg-preview.png", THVL5 | Báo và PT-TH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/91/index.m3u8
-#EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/HanoiTV1_HD_logo_2024_b%253Fn_2.png", HanoiTV1 | Đài Hà Nội
-#EXTVLCOPT:http-user-agent=VMTTV
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/33/index.m3u8
-#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/HanoiTV2_HD_logo_2024.png", HanoiTV2 | Đài Hà Nội
-#EXTVLCOPT:http-user-agent=VMTTV
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/34/index.m3u8
-#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/HanoiTV2_UHD_logo_20.06.2025-removebg-preview.png", HanoiTV2 UHD | Đài Hà Nội
-#EXTVLCOPT:http-user-agent=VMTTV
-https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8
 #EXTINF:-1 tvg-id="angiang1" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/ATV1_22.08.2025-removebg-preview.png", ATV1 | Báo và PT-TH An Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
@@ -273,6 +264,15 @@ https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="gialai" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/GTV_Gia_Lai_logo_04.07.2025-removebg-preview.png", GTV | Báo và PT-TH Gia Lai
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/55/index.m3u8
+#EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/HanoiTV1_HD_logo_2024_b%253Fn_2.png", HanoiTV1 | Đài Hà Nội
+#EXTVLCOPT:http-user-agent=VMTTV
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/33/index.m3u8
+#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/HanoiTV2_HD_logo_2024.png", HanoiTV2 | Đài Hà Nội
+#EXTVLCOPT:http-user-agent=VMTTV
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/34/index.m3u8
+#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/HanoiTV2_UHD_logo_20.06.2025-removebg-preview.png", HanoiTV2 UHD | Đài Hà Nội
+#EXTVLCOPT:http-user-agent=VMTTV
+https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/BHT_TV_logo_co%CC%81_website_ba%CC%89n_2-removebg-preview.png", BHTTV | Báo Hà Tĩnh
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/58/index.m3u8
@@ -311,6 +311,41 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/50/index.m
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/74/index.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/NTV_HD_Ninh_B%253Fnh.png", NBTV | Báo và PT-TH Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
-#EXTINF:-1 tvg-id="hbohd" group-title="Quốc tế" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/HBO_Asia_2015-removebg-preview.png", HBO
+#EXTINF:-1 tvg-id="phutho" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/PTV_HD_logo_2023-removebg-preview.png", PTV | Báo và PT-TH Phú Thọ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.mskycdn.online/tv/hbohd/index.m3u8
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/77/index.m3u8
+#EXTINF:-1 tvg-id="quangngai" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/QNgTV_logo_17.07.2025-removebg-preview.png", QNgTV | Báo và PT-TH Quảng Ngãi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/81/index.m3u8
+#EXTINF:-1 tvg-id="quangninh1" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/QTV1_HD_logo.png", QTV1 | Báo và PT-TH Quảng Ninh
+https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="quangninh3" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/QTV3_HD_logo.png", QTV3 | Báo và PT-TH Quảng Ninh
+https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
+#EXTINF:-1 tvg-id="quangtri" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/QTTV_Qua%CC%89ng_Tri%CC%A3_logo_2025-removebg-preview.png", QTTV | Báo và PT-TH Quảng Trị
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/83/index.m3u8
+#EXTINF:-1 tvg-id="sonla" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/STV_HD_Son_La_logo_2020_b%253Fn_2.png", STV | Báo và PT-TH Sơn La
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
+#EXTINF:-1 tvg-id="tayninh1" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/TTV1_TayNinhTV_b_n_2-removebg-preview.png", TTV1 | Báo và PT-TH Tây Ninh
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/72/index.m3u8
+#EXTINF:-1 tvg-id="tayninh2" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/TTV2_TayNinhTV.png", TTV2 | Báo và PT-TH Tây Ninh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/86/index.m3u8
+#EXTINF:-1 tvg-id="thainguyen" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/TN_logo_m%253Fn_h%253Fnh_2025.png", TN | Báo và PT-TH Thái Nguyên
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/88/index.m3u8
+#EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/Logo_TTV_Thanh_H%253Fa_22-05-2025_%2528c%253F_website%252C_B%253Fn_2%2529.png", TTV | Báo và PT-TH Thanh Hoá
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/89/index.m3u8
+#EXTINF:-1 tvg-id="tuyenquang" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/TTV_HD_Tuy_n_Quang_logo_m_n_h_nh-removebg-preview.png", TTV | Báo và PT-TH Tuyên Quang
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/92/index.m3u8
+#EXTINF:-1 tvg-id="vungtau" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/BRT_HD_V%253Fng_T%253Fu_c%253F_website_%252809-01-2024%2529.png", BRT | Đài PT-TH Bà Rịa & Vũng Tàu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/94/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc tế" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/HBO_Asia_2015-removebg-preview.png", HBO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
