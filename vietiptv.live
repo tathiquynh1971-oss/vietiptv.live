@@ -258,19 +258,19 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban2/dongnai3/i
 #EXTINF:-1 tvg-id="dongthap1" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/TH%C4%90T1_logo_31-07-2023-removebg-preview.png", THĐT1 | Báo và PT-TH Đồng Tháp
 #EXTVLCOPT:http-user-agent=ANTmedia
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="dongthap2" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/Mie%CC%82%CC%80n_Ta%CC%82y_TH%C4%90T2_logo_2019-nay_ba%CC%89n_2.png", THĐT2 - Miền Tây
+#EXTINF:-1 tvg-id="dongthap2" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/Mie%CC%82%CC%80n_Ta%CC%82y_TH%C4%90T2_logo_2019-nay_ba%CC%89n_2.png", THĐT2 | Miền Tây
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="gialai" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/GTV_Gia_Lai_logo_04.07.2025-removebg-preview.png", GTV | Báo và PT-TH Gia Lai
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/55/index.m3u8
-#EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/HanoiTV1_HD_logo_2024_b%253Fn_2.png", HanoiTV1 | Đài Hà Nội
+#EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/HanoiTV1_HD_logo_2024_b%253Fn_2.png", HanoiTV1
 #EXTVLCOPT:http-user-agent=VMTTV
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/33/index.m3u8
-#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/HanoiTV2_HD_logo_2024.png", HanoiTV2 | Đài Hà Nội
+#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/HanoiTV2_HD_logo_2024.png", HanoiTV2
 #EXTVLCOPT:http-user-agent=VMTTV
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/34/index.m3u8
-#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/HanoiTV2_UHD_logo_20.06.2025-removebg-preview.png", HanoiTV2 UHD | Đài Hà Nội
+#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/HanoiTV2_UHD_logo_20.06.2025-removebg-preview.png", HanoiTV2 UHD
 #EXTVLCOPT:http-user-agent=VMTTV
 https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/BHT_TV_logo_co%CC%81_website_ba%CC%89n_2-removebg-preview.png", BHTTV | Báo Hà Tĩnh
