@@ -337,7 +337,7 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/88/index.m
 #EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/Logo_TTV_Thanh_H%253Fa_22-05-2025_%2528c%253F_website%252C_B%253Fn_2%2529.png", TTV | Báo và PT-TH Thanh Hoá
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/89/index.m3u8
-#EXTINF:-1 tvg-id="tuyenquang" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/TTV_HD_Tuy_n_Quang_logo_m_n_h_nh-removebg-preview.png", TTV | Báo và PT-TH Tuyên Quang
+#EXTINF:-1 tvg-id="tuyenquang" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/TTV_Tuy_n_Quang-removebg-preview.png", TTV | Báo và PT-TH Tuyên Quang
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/92/index.m3u8
 #EXTINF:-1 tvg-id="vungtau" group-title="Địa phương" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/BRT_HD_V%253Fng_T%253Fu_c%253F_website_%252809-01-2024%2529.png", BRT | Đài PT-TH Bà Rịa & Vũng Tàu
@@ -349,3 +349,9 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/94/index.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" group-logo="place-holder" tvg-logo="https://raw.githubusercontent.com/tathiquynh1971-oss/vietiptv.live/refs/heads/main/Cinemax_Asia_2017.png", Cinemax
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6YaPX0c9D9hpnt5I1THCsA","kid":"rLTCNHEGMyetxzLig8CEfw"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
